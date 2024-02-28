@@ -1,3 +1,6 @@
+import React from 'react'
+import ReactDOM from 'react-dom/client'
+
 // Example for non nested
 // const heading = React.createElement('h1', {id: 'heading', xyz: 'hello again'}, 'Hello world from react!') //create element to create h1 with msg
 
